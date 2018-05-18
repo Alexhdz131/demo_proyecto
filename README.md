@@ -1,6 +1,6 @@
-#Proyecto integrador de 3 cuatrimestre 
+# Proyecto integrador de 3 cuatrimestre 
 Repositorio para el proyecto final 3er cuatrimestre
-##Introduccion
+## Introduccion
 En este repositorio se realiza un sistema para la empresa ACME
-##Materias
+## Materias
 Desarrollo de aplicaciones 1- Salvador Hernández Mendoza
